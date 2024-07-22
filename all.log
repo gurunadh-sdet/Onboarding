@@ -1,0 +1,3 @@
+2024-06-12 15:48:02.821 [main] DEBUG epam.corejava.strings.RotationString - String 1: abcde
+2024-06-12 15:48:02.826 [main] DEBUG epam.corejava.strings.RotationString - String 2: cdeab
+2024-06-12 15:48:02.827 [main] INFO  epam.corejava.strings.RotationString - The strings are rotations of each other.
